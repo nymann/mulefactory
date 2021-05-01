@@ -1,0 +1,4 @@
+include:
+  - project: 'devops/pipelines/python'
+    ref: b1d9a899debdf47d71576e86bea8f0db4d04f769
+    file: 'pip_package.yml'
